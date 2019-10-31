@@ -1,0 +1,8 @@
+server:
+    port: 8085
+
+logging:
+    level:
+        com.openwecco.msgateway: DEBUG
+    file:
+        name: msgateway.log
