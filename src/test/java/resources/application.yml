@@ -1,5 +1,8 @@
+server:
+    port: 8085
+
 logging:
     level:
         com.openwecco.msgateway: DEBUG
     file:
-        name: /Users/podisto/ms-mlogs/msgateway.log
+        name: msgateway.log
